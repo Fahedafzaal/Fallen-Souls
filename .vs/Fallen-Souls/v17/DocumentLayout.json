@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\Unity\\Fallen-Souls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9283E3A-D08D-6783-84D2-B6985483893E}|Assembly-CSharp.csproj|E:\\Projects\\Unity\\Fallen-Souls\\assets\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9283E3A-D08D-6783-84D2-B6985483893E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9283E3A-D08D-6783-84D2-B6985483893E}|Assembly-CSharp.csproj|E:\\Projects\\Unity\\Fallen-Souls\\assets\\scripts\\unitstamina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9283E3A-D08D-6783-84D2-B6985483893E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unitstamina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9283E3A-D08D-6783-84D2-B6985483893E}|Assembly-CSharp.csproj|e:\\projects\\unity\\fallen-souls\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9283E3A-D08D-6783-84D2-B6985483893E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9283E3A-D08D-6783-84D2-B6985483893E}|Assembly-CSharp.csproj|e:\\projects\\unity\\fallen-souls\\assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9283E3A-D08D-6783-84D2-B6985483893E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9283E3A-D08D-6783-84D2-B6985483893E}|Assembly-CSharp.csproj|e:\\projects\\unity\\fallen-souls\\assets\\scripts\\staminabar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9283E3A-D08D-6783-84D2-B6985483893E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\staminabar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9283E3A-D08D-6783-84D2-B6985483893E}|Assembly-CSharp.csproj|e:\\projects\\unity\\fallen-souls\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9283E3A-D08D-6783-84D2-B6985483893E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "E:\\Projects\\Unity\\Fallen-Souls\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "E:\\Projects\\Unity\\Fallen-Souls\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:06:59.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StaminaBar.cs",
+              "DocumentMoniker": "E:\\Projects\\Unity\\Fallen-Souls\\Assets\\Scripts\\StaminaBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StaminaBar.cs",
+              "ToolTip": "E:\\Projects\\Unity\\Fallen-Souls\\Assets\\Scripts\\StaminaBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StaminaBar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T20:04:41.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "E:\\Projects\\Unity\\Fallen-Souls\\Assets\\Scripts\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthBar.cs",
+              "ToolTip": "E:\\Projects\\Unity\\Fallen-Souls\\Assets\\Scripts\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthBar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T19:52:47.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\Projects\\Unity\\Fallen-Souls\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "E:\\Projects\\Unity\\Fallen-Souls\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T19:50:29.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitStamina.cs",
+              "DocumentMoniker": "E:\\Projects\\Unity\\Fallen-Souls\\Assets\\Scripts\\UnitStamina.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UnitStamina.cs",
+              "ToolTip": "E:\\Projects\\Unity\\Fallen-Souls\\Assets\\Scripts\\UnitStamina.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UnitStamina.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:11:08.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Health.cs",
+              "DocumentMoniker": "E:\\Projects\\Unity\\Fallen-Souls\\Assets\\Scripts\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Health.cs",
+              "ToolTip": "E:\\Projects\\Unity\\Fallen-Souls\\Assets\\Scripts\\Health.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Health.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:11:41.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

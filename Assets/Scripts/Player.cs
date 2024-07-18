@@ -4,6 +4,10 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+
+    [SerializeField] HealthBar _healthBar;
+    [SerializeField] StaminaBar _staminaBar;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -31,9 +35,26 @@ public class Player : MonoBehaviour
     private void PlayerTakeDmg(int dmg)
     {
         GameManager.gameManager._playerHealth.DmgUnit(dmg);
+        _healthBar.SetHealth(GameManager.gameManager._playerHealth.currentHealth);
     }
     private void PlayerHeal(int healing)
     {
         GameManager.gameManager._playerHealth.HealUnit(healing);
+        _healthBar.SetHealth(GameManager.gameManager._playerHealth.currentHealth);
+    }
+    private void PlayerUseStamina(float staminaAmount)
+    {
+        GameManager.gameManager._playerStamina.UseStamina(staminaAmount);
+        _staminaBar.SetStamina(GameManager.gameManager._playerStamina.Stamina);
+    }
+    private void PlayerRegenStamina()
+    {
+        GameManager.gameManager._playerStamina.RegenStamina();
+        _staminaBar.SetStamina(GameManager.gameManager._playerStamina.Stamina);
+    }
+    public void PlayerRegenStaminaOnKill()
+    {
+        GameManager.gameManager._playerStamina.RegenStaminaOnKill();
+        _staminaBar.SetStamina(GameManager.gameManager._playerStamina.Stamina);
     }
 }
