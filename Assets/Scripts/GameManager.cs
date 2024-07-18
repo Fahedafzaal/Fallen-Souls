@@ -4,9 +4,19 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
-    
-    void Start()
+    public static GameManager gameManager {  get; private set; }
+
+    public Health _playerHealth = new Health(100, 100);
+
+    void Awake()
     {
-        
+        if (gameManager != null && gameManager != this)
+        {
+            Destroy(this);
+        }
+        else
+        {
+            gameManager = this;
+        }
     }
 }

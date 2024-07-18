@@ -41,7 +41,7 @@ public class Health
     }
 
     // Method
-    public void dmgUnit(int dmgAmount)
+    public void DmgUnit(int dmgAmount)
     {
         if (_currentHealth > 0)
         {
@@ -49,5 +49,16 @@ public class Health
         }
     }
 
+    public void HealUnit(int healAmount)
+    {
+        if (_currentHealth < _maxHealth)
+        {
+            _currentHealth += healAmount;
+        }
+        if (_currentHealth > maxHealth)
+        {
+            _currentHealth = maxHealth;
+        }
+    }
     
 }
