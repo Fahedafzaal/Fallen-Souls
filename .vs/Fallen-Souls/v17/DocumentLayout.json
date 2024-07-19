@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< Updated upstream
   "WorkspaceRootPath": "E:\\Projects\\Unity\\Fallen-Souls\\",
   "Documents": [
     {
@@ -25,6 +26,13 @@
     {
       "AbsoluteMoniker": "D:0:0:{B9283E3A-D08D-6783-84D2-B6985483893E}|Assembly-CSharp.csproj|e:\\projects\\unity\\fallen-souls\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9283E3A-D08D-6783-84D2-B6985483893E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+  "WorkspaceRootPath": "C:\\unity uzair\\Fallen-Souls\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9283E3A-D08D-6783-84D2-B6985483893E}|Assembly-CSharp.csproj|c:\\unity uzair\\fallen-souls\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9283E3A-D08D-6783-84D2-B6985483893E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -34,6 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 5,
           "Children": [
             {
@@ -112,6 +121,21 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-18T17:11:41.416Z",
+=======
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\unity uzair\\Fallen-Souls\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "C:\\unity uzair\\Fallen-Souls\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T16:24:51.058Z",
+>>>>>>> Stashed changes
               "EditorCaption": ""
             }
           ]
